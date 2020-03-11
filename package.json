@@ -1,5 +1,5 @@
 {
-  "name": "wordflow-site",
+  "name": "drona-academy",
   "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
@@ -41,5 +41,23 @@
     "node-sass": "^4.7.2",
     "sass-loader": "^7.0.0",
     "serve": "^11.0.0"
-  }
+  },
+  "description": "Powered by worldflow.ie ### Running locally ``` npm install",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suryapandian/drona-academy.git"
+  },
+  "keywords": [
+    "\"drona\"",
+    "\"ngo\"",
+    "\"education\""
+  ],
+  "author": "surya",
+  "bugs": {
+    "url": "https://github.com/suryapandian/drona-academy/issues"
+  },
+  "engines": {
+    "node": "13.10.1"
+  },
+  "homepage": "https://github.com/suryapandian/drona-academy#readme"
 }
