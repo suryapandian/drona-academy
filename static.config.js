@@ -3,7 +3,7 @@ import Document from './src/Document'
 
 export default {
   Document,
-  siteRoot: "./",
+  siteRoot: process.env.SITE_ROOT,
   getSiteData: async () => {
     const portfolioLinks = await getPortfolioLinks()
     return {
